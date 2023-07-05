@@ -1,0 +1,81 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+
+}
+
+.tittel{
+    margin-bottom: 40px;
+    background-image: url(group.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 339px;
+
+    
+}
+.tittel h2 {
+    text-align:center;
+    color: rgb(248, 0, 0);
+    background-color:transparent;
+    border-radius: 5px 10px;
+    padding: 30px;
+    letter-spacing: 4px;
+  
+}
+.tittel  p{
+    text-align: justify;
+    letter-spacing: 2px;
+    color: rgb(243, 12, 101);
+    background-color: rgba(62, 226, 21, 0.226);
+
+}
+.tittel h5 a:hover{
+    color: rgb(243, 12, 101);
+    background-color: rgb(0, 247, 255);
+    display: inline-block;
+    padding: 4px;
+    box-shadow: 3px 8px 5px rgb(60, 104, 224);
+    border-radius: 20% 30%;
+}
+.tittel h5 a{
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    transition: .6s;
+}
+.tittel h5 {
+    margin-top: 20px;
+    margin-bottom: 109px;
+    text-align: center;
+    background-color: transparent;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 20px;
+  
+  
+}
+
+.list ul h3{
+    margin-left: 30px;
+    margin-right: 365px;
+    color: tomato;
+    background-color: springgreen;
+    border-radius: 10px 20px;
+    padding: 30px;
+    letter-spacing: 3px;
+    
+}
+.list ul ol li{
+    margin-left: 70px;
+   
+
+    
+}
+.list ol li{
+    color: rgb(228, 93, 228);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+header {
+   
+}
